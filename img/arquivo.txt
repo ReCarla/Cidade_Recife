@@ -1,2 +1,0 @@
-Criacao do arquivo.txt
-excluir o mesmo arquivo da pasta img que estava incorretamente
